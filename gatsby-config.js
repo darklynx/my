@@ -4,7 +4,14 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `DarkLynx`,
     siteTitleAlt: `Lynx @ wobla.ru - another realm`,
+    siteHeadline: `Lynx @ wobla.ru - another realm`,
+    siteUrl: `https://darklynx.github.io/blog`,
+    siteDescription: `Вместо мыслей - личный блог Линкса с wobla.ru, aka Lynx IdleLynx DarkLynx`,
+    siteLanguage: `ru`,
+    siteImage: `/favicon-512x512.png`,
+    author: `@darklynx`,
   },
   plugins: [
     {
@@ -52,6 +59,21 @@ module.exports = {
         theme_color: `#6B46C1`,
         display: `standalone`,
         icons: [
+          {
+            src: `/favicon-192x192.png`,
+            sizes: `192x192`,
+            type: `image/png`,
+          },
+          {
+            src: `/favicon-256x256.png`,
+            sizes: `256x256`,
+            type: `image/png`,
+          },
+          {
+            src: `/favicon-512x512.png`,
+            sizes: `512x512`,
+            type: `image/png`,
+          }
         ],
       },
     },
