@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-07-18 00:09:13+00:00
 layout: post
-link: http://localhost/wordpress/2006/07/%d0%9e-%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be%d0%b9-%d0%bc%d0%be%d1%82%d0%b8%d0%b2%d0%b0%d1%86%d0%b8%d0%b8/
-slug: right-motivation
+link: https://wobla.ru/blog/idle_lynx/2731.aspx
+slug: '2006/07/right-motivation'
 title: О правильной мотивации
 wordpress_id: 225
 tags:

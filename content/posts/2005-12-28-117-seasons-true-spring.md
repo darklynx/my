@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-12-28 02:35:09+00:00
 layout: post
-link: http://localhost/wordpress/2005/12/%d0%b8%d0%b7-%d1%81%d0%b5%d1%80%d0%b8%d0%b8-seasons-%d0%b2%d0%b5%d1%81%d0%bd%d0%b0-%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%b0%d1%8f/
-slug: seasons-true-spring
+link: https://wobla.ru/blog/idle_lynx/2292.aspx
+slug: '2005/12/seasons-true-spring'
 title: из серии Seasons (весна! настоящая!)
 wordpress_id: 117
 tags:

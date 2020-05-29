@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2007-03-08 22:46:47+00:00
 layout: post
-link: http://localhost/wordpress/2007/03/%d1%86%d0%b2%d0%b5%d1%82%d1%8b-%d1%81-%d1%86%d0%b2%d0%b5%d1%82%d0%be%d1%87%d0%bd%d0%be%d0%b3%d0%be-%d0%be%d1%81%d1%82%d1%80%d0%be%d0%b2%d0%b0/
-slug: flower-island
+link: https://wobla.ru/blog/idle_lynx/3329.aspx
+slug: '2007/03/flower-island'
 title: цветы с "цветочного острова"
 wordpress_id: 372
 tags:

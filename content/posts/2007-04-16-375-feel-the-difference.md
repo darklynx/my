@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2007-04-16 00:19:16+00:00
 layout: post
-link: http://localhost/wordpress/2007/04/%d0%bf%d0%be%d1%87%d1%83%d0%b2%d1%82%d1%81%d0%b2%d1%83%d0%b9%d1%82%d0%b5-%d1%80%d0%b0%d0%b7%d0%bd%d0%b8%d1%86%d1%83/
-slug: feel-the-difference
+link: https://wobla.ru/blog/idle_lynx/3383.aspx
+slug: '2007/04/feel-the-difference'
 title: почувтсвуйте разницу
 wordpress_id: 375
 tags:

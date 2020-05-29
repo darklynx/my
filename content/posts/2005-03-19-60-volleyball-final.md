@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-03-19 20:37:43+00:00
 layout: post
-link: http://localhost/wordpress/2005/03/%d0%92%d0%be%d0%bb%d0%b5%d0%b9%d0%b1%d0%be%d0%bb-%d1%84%d0%b8%d0%bd%d0%b0%d0%bb/
-slug: volleyball-final
+link: https://wobla.ru/blog/idle_lynx/1510.aspx
+slug: '2005/03/volleyball-final'
 title: Волейбол (финал)
 wordpress_id: 60
 tags:

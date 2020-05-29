@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-07-03 23:24:14+00:00
 layout: post
-link: http://localhost/wordpress/2006/07/%d0%a7%d0%b5%d0%bc-%d1%84%d0%be%d1%82%d0%b8%d0%ba-%d0%bb%d1%83%d1%87%d1%88%d0%b5-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d1%8b/
-slug: camera-vs-cellphone
+link: https://wobla.ru/blog/idle_lynx/2667.aspx
+slug: '2006/07/camera-vs-cellphone'
 title: Чем фотик лучше мобилы?
 wordpress_id: 211
 tags:

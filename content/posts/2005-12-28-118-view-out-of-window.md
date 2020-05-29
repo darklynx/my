@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-12-28 22:53:17+00:00
 layout: post
-link: http://localhost/wordpress/2005/12/%d0%92%d0%b8%d0%b4-%d0%b8%d0%b7-%d0%be%d0%ba%d0%bd%d0%b0-%d0%92%d0%be%d0%b1%d0%bb%d1%8b%d1%87%d0%b0/
-slug: view-out-of-window
+link: https://wobla.ru/blog/idle_lynx/2296.aspx
+slug: '2005/12/view-out-of-window'
 title: Вид из окна Воблыча
 wordpress_id: 118
 tags:

@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-09-29 14:31:52+00:00
 layout: post
-link: http://localhost/wordpress/2004/09/%d0%92%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d1%81%d0%be%d0%b2%d0%b5%d1%82%d0%be%d0%b2/
-slug: instead-of-advices
+link: https://wobla.ru/blog/idle_lynx/862.aspx
+slug: '2004/09/instead-of-advices'
 title: Вместо советов
 wordpress_id: 31
 tags:

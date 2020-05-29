@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-03-09 22:05:22+00:00
 layout: post
-link: http://localhost/wordpress/2006/03/%d0%94%d0%b8%d0%b2%d0%bd%d1%8b%d0%b9-%d0%9b%d0%be%d0%bd%d0%b4%d0%be%d0%bd/
-slug: marvelous-london
+link: https://wobla.ru/blog/idle_lynx/2416.aspx
+slug: '2006/03/marvelous-london'
 title: Дивный Лондон
 wordpress_id: 161
 tags:

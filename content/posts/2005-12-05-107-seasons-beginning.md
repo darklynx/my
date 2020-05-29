@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-12-05 23:21:24+00:00
 layout: post
-link: http://localhost/wordpress/2005/12/%d0%b8%d0%b7-%d1%81%d0%b5%d1%80%d0%b8%d0%b8-seasons-%d0%ba%d0%b0%d0%ba-%d0%b2%d1%81%d0%b5-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d0%bb%d0%be%d1%81%d1%8c/
-slug: seasons-beginning
+link: https://wobla.ru/blog/idle_lynx/2244.aspx
+slug: '2005/12/seasons-beginning'
 title: из серии Seasons (как все начиналось)
 wordpress_id: 107
 tags:

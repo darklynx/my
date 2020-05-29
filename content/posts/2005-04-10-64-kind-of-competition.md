@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-04-10 19:51:13+00:00
 layout: post
-link: http://localhost/wordpress/2005/04/%d1%82%d0%b8%d0%bf%d0%b0-%d1%81%d0%be%d1%80%d0%b5%d0%b2%d0%bd%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5/
-slug: kind-of-competition
+link: https://wobla.ru/blog/idle_lynx/1581.aspx
+slug: '2005/04/kind-of-competition'
 title: типа соревнование
 wordpress_id: 64
 tags:

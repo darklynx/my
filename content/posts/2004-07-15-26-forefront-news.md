@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-07-15 18:58:44+00:00
 layout: post
-link: http://localhost/wordpress/2004/07/%d0%9d%d0%be%d0%b2%d0%be%d1%81%d1%82%d0%b8-%d1%81-%d1%84%d1%80%d0%be%d0%bd%d1%82%d0%b0/
-slug: forefront-news
+link: https://wobla.ru/blog/idle_lynx/649.aspx
+slug: '2004/07/forefront-news'
 title: Новости с фронта
 wordpress_id: 26
 tags:

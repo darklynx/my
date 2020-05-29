@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2009-01-22 01:23:58+00:00
 layout: post
-link: http://localhost/wordpress/2009/01/%d0%b8%d1%82%d0%be%d0%b3%d0%b8-%d0%b3%d0%be%d0%b4%d0%b0/
-slug: linux-desktops
+link: https://wobla.ru/blog/idle_lynx/4751.aspx
+slug: '2009/01/linux-desktops'
 title: итоги года?
 wordpress_id: 465
 tags:

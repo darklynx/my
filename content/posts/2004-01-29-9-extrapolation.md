@@ -4,7 +4,7 @@ comments: true
 date: 2004-01-29 17:57:00+00:00
 layout: post
 link: https://wobla.ru/blog/idle_lynx/70.aspx
-slug: extrapolation
+slug: '2004/01/extrapolation'
 title: Экстраполяция [вместо наблюдения]
 wordpress_id: 9
 tags:

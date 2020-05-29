@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-11-08 16:53:29+00:00
 layout: post
-link: http://localhost/wordpress/2004/11/%d0%a4%d1%80%d0%b0%d0%b7%d0%b0-%d0%b4%d0%bd%d1%8f/
-slug: 10-types-of-people
+link: https://wobla.ru/blog/idle_lynx/1002.aspx
+slug: '2004/11/10-types-of-people'
 title: Фраза дня
 wordpress_id: 36
 tags:

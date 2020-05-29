@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-09-17 01:03:24+00:00
 layout: post
-link: http://localhost/wordpress/2005/09/%d0%b4%d1%80%d1%83%d0%b3%d0%b0%d1%8f-%d0%bd%d0%be%d1%87%d1%8c/
-slug: another-night
+link: https://wobla.ru/blog/idle_lynx/2054.aspx
+slug: '2005/09/another-night'
 title: другая ночь
 wordpress_id: 87
 tags:

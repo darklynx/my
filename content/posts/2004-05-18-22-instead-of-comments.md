@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-05-18 01:39:38+00:00
 layout: post
-link: http://localhost/wordpress/2004/05/%d0%92%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%ba%d0%be%d0%bc%d0%b5%d0%bd%d1%82%d0%b0%d1%80%d0%b8%d0%b5%d0%b2/
-slug: instead-of-comments
+link: https://wobla.ru/blog/idle_lynx/439.aspx
+slug: '2004/05/instead-of-comments'
 title: Вместо коментариев
 wordpress_id: 22
 tags:

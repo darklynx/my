@@ -4,7 +4,7 @@ comments: true
 date: 2004-01-26 16:38:01+00:00
 layout: post
 link: https://wobla.ru/blog/idle_lynx/60.aspx
-slug: tough-monday
+slug: '2004/01/tough-monday'
 title: Понедельник - день тяжелый
 wordpress_id: 7
 tags:

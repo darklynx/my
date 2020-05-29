@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-07-02 21:17:17+00:00
 layout: post
-link: http://localhost/wordpress/2005/07/%d1%82%d1%83%d1%80%d0%bd%d0%b8%d1%80-%d0%bf%d0%be-%d0%b2%d0%be%d0%bb%d0%b5%d0%b9%d0%b1%d0%be%d0%bb%d1%83/
-slug: volleyball-tournament
+link: https://wobla.ru/blog/idle_lynx/1835.aspx
+slug: '2005/07/volleyball-tournament'
 title: турнир по волейболу
 wordpress_id: 76
 tags:

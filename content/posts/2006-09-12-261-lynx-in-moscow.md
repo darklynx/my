@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-09-12 10:16:29+00:00
 layout: post
-link: http://localhost/wordpress/2006/09/%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b0-%d0%b3%d0%bb%d0%b0%d0%b7%d0%b0%d0%bc%d0%b8-%d0%9b%d0%b8%d0%bd%d0%ba%d1%81%d0%b0/
-slug: lynx-in-moscow
+link: https://wobla.ru/blog/idle_lynx/2867.aspx
+slug: '2006/09/lynx-in-moscow'
 title: Москва глазами Линкса
 wordpress_id: 261
 tags:

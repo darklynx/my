@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2007-04-10 00:22:57+00:00
 layout: post
-link: http://localhost/wordpress/2007/04/%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d0%b7%d0%b0%d0%ba%d0%b0%d1%82/
-slug: mobile-sunset
+link: https://wobla.ru/blog/idle_lynx/3375.aspx
+slug: '2007/04/mobile-sunset'
 title: мобильный закат
 wordpress_id: 374
 tags:

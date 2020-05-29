@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-09-26 22:16:56+00:00
 layout: post
-link: http://localhost/wordpress/2005/09/%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%b3%d0%b5%d0%bd%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d1%81%d1%82%d0%b8/
-slug: instead-of-genius
+link: https://wobla.ru/blog/idle_lynx/2081.aspx
+slug: '2005/09/instead-of-genius'
 title: вместо гениальности
 wordpress_id: 92
 tags:

@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-08-30 11:56:23+00:00
 layout: post
-link: http://localhost/wordpress/2005/08/%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d1%81%d0%bd%d0%be%d0%b2/
-slug: instead-of-dreams
+link: https://wobla.ru/blog/idle_lynx/2011.aspx
+slug: '2005/08/instead-of-dreams'
 title: вместо снов
 wordpress_id: 79
 tags:

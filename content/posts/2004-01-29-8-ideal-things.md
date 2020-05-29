@@ -4,7 +4,7 @@ comments: true
 date: 2004-01-29 17:05:37+00:00
 layout: post
 link: https://wobla.ru/blog/idle_lynx/69.aspx
-slug: ideal-things
+slug: '2004/01/ideal-things'
 title: Любовь к идеальному
 wordpress_id: 8
 tags:

@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-07-27 02:00:36+00:00
 layout: post
-link: http://localhost/wordpress/2005/07/%d0%92%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%bf%d0%be%d0%b8%d1%81%d0%ba%d0%b0/
-slug: instead-of-quest
+link: https://wobla.ru/blog/idle_lynx/1917.aspx
+slug: '2005/07/instead-of-quest'
 title: Вместо поиска
 wordpress_id: 78
 tags:

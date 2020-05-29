@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-07-05 14:46:14+00:00
 layout: post
-link: http://localhost/wordpress/2006/07/%d0%ba%d0%b0%d0%ba-%d0%b2%d1%81%d0%b5-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d0%bb%d0%be%d1%81%d1%8c/
-slug: the-beginning
+link: https://wobla.ru/blog/idle_lynx/2675.aspx
+slug: '2006/07/the-beginning'
 title: как все начиналось
 wordpress_id: 218
 tags:

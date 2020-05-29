@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-01-10 23:24:31+00:00
 layout: post
-link: http://localhost/wordpress/2005/01/%d0%92%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d1%85%d1%80%d1%83%d1%81%d1%82%d0%b0%d0%bb%d1%8f/
-slug: instead-of-rock-crystal
+link: https://wobla.ru/blog/idle_lynx/1246.aspx
+slug: '2005/01/instead-of-rock-crystal'
 title: Вместо хрусталя
 wordpress_id: 43
 tags:

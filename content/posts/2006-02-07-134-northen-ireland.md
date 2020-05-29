@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-02-07 23:22:59+00:00
 layout: post
-link: http://localhost/wordpress/2006/02/%d0%a1%d0%b5%d0%b2%d0%b5%d1%80%d0%bd%d0%b0%d1%8f-%d0%98%d1%80%d0%bb%d0%b0%d0%bd%d0%b4%d0%b8%d1%8f/
-slug: northen-ireland
+link: https://wobla.ru/blog/idle_lynx/2373.aspx
+slug: '2006/02/northen-ireland'
 title: Северная Ирландия
 wordpress_id: 134
 tags:

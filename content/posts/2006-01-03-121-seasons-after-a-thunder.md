@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-01-03 20:57:15+00:00
 layout: post
-link: http://localhost/wordpress/2006/01/%d0%b8%d0%b7-%d1%81%d0%b5%d1%80%d0%b8%d0%b8-seasons-%d0%bf%d0%be%d1%81%d0%bb%d0%b5-%d0%b3%d1%80%d0%be%d0%b7%d1%8b/
-slug: seasons-after-a-thunder
+link: https://wobla.ru/blog/idle_lynx/2308.aspx
+slug: '2006/01/seasons-after-a-thunder'
 title: из серии Seasons (после грозы)
 wordpress_id: 121
 tags:

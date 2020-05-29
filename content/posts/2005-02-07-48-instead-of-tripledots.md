@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-02-07 18:23:55+00:00
 layout: post
-link: http://localhost/wordpress/2005/02/%d0%92%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d1%82%d1%80%d0%be%d0%b5%d1%82%d0%be%d1%87%d0%b8%d0%b9/
-slug: instead-of-tripledots
+link: https://wobla.ru/blog/idle_lynx/1358.aspx
+slug: '2005/02/instead-of-tripledots'
 title: Вместо троеточий
 wordpress_id: 48
 tags:

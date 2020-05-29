@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-10-22 00:14:48+00:00
 layout: post
-link: http://localhost/wordpress/2004/10/%d0%92%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%b4%d0%b8%d0%b0%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d0%b2/
-slug: instead-of-dialects
+link: https://wobla.ru/blog/idle_lynx/951.aspx
+slug: '2004/10/instead-of-dialects'
 title: Вместо диалектов
 wordpress_id: 32
 tags:

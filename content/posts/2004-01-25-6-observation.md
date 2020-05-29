@@ -4,7 +4,7 @@ comments: true
 date: 2004-01-25 15:12:02+00:00
 layout: post
 link: https://wobla.ru/blog/idle_lynx/57.aspx
-slug: observation
+slug: '2004/01/observation'
 title: Интересное наблюдение
 wordpress_id: 6
 tags:

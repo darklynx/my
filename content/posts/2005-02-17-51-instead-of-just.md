@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-02-17 17:39:14+00:00
 layout: post
-link: http://localhost/wordpress/2005/02/%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%b8-%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%be/
-slug: instead-of-just
+link: https://wobla.ru/blog/idle_lynx/1397.aspx
+slug: '2005/02/instead-of-just'
 title: вместо и просто
 wordpress_id: 51
 tags:

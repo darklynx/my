@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-12-30 19:51:29+00:00
 layout: post
-link: http://localhost/wordpress/2004/12/%d0%a1-%d0%bd%d0%b0%d1%81%d1%82%d1%83%d0%bf%d0%b0%d1%8e%d1%89%d0%b8%d0%bc-%d0%9d%d0%be%d0%b2%d1%8b%d0%bc-%d0%93%d0%be%d0%b4%d0%be%d0%bc/
-slug: happy-new-year
+link: https://wobla.ru/blog/idle_lynx/1219.aspx
+slug: '2004/12/happy-new-year'
 title: С наступающим Новым Годом
 wordpress_id: 42
 tags:

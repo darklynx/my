@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-02-14 23:05:57+00:00
 layout: post
-link: http://localhost/wordpress/2006/02/the-belfast-night-bonus/
-slug: belfast-night
+link: https://wobla.ru/blog/idle_lynx/2381.aspx
+slug: '2006/02/belfast-night'
 title: The Belfast Night (bonus)
 wordpress_id: 146
 tags:

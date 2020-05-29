@@ -4,7 +4,7 @@ comments: true
 date: 2004-01-22 13:32:04+00:00
 layout: post
 link: https://wobla.ru/blog/idle_lynx/32.aspx
-slug: instead-of-conclusion
+slug: '2004/01/instead-of-conclusion'
 title: Вместо вывода
 wordpress_id: 5
 tags:

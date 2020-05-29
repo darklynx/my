@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-10-08 00:46:20+00:00
 layout: post
-link: http://localhost/wordpress/2005/10/%d0%bf%d0%be%d0%b2%d1%82%d0%be%d1%80%d1%8f%d1%8f-%d0%ba%d0%bb%d0%b0%d1%81%d1%81%d0%b8%d0%ba%d0%be%d0%b2/
-slug: photo-recursion
+link: https://wobla.ru/blog/idle_lynx/2107.aspx
+slug: '2005/10/photo-recursion'
 title: повторяя классиков
 wordpress_id: 93
 tags:

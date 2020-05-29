@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2007-01-23 14:30:27+00:00
 layout: post
-link: http://localhost/wordpress/2007/01/%d0%b7%d0%b8%d0%bc%d0%bd%d1%8f%d1%8f-%d1%83%d0%bb%d0%b8%d1%86%d0%b0/
-slug: winter-street
+link: https://wobla.ru/blog/idle_lynx/3199.aspx
+slug: '2007/01/winter-street'
 title: '"зимняя улица"'
 wordpress_id: 338
 tags:

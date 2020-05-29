@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-01-19 03:37:00+00:00
 layout: post
-link: http://localhost/wordpress/2005/01/%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%be/
-slug: just-like-that
+link: https://wobla.ru/blog/idle_lynx/1281.aspx
+slug: '2005/01/just-like-that'
 title: Просто...
 wordpress_id: 44
 tags:

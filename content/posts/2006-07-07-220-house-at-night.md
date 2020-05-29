@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-07-07 00:05:56+00:00
 layout: post
-link: http://localhost/wordpress/2006/07/%d0%b4%d0%be%d0%bc%d0%b8%d0%ba-%d0%b2-%d0%bd%d0%be%d1%87%d0%b8/
-slug: house-at-night
+link: https://wobla.ru/blog/idle_lynx/2684.aspx
+slug: '2006/07/house-at-night'
 title: домик в ночи
 wordpress_id: 220
 tags:

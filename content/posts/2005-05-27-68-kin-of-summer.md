@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-05-27 02:20:57+00:00
 layout: post
-link: http://localhost/wordpress/2005/05/%d1%82%d0%b8%d0%bf%d0%b0-%d0%bb%d0%b5%d1%82%d0%be/
-slug: kin-of-summer
+link: https://wobla.ru/blog/idle_lynx/1735.aspx
+slug: '2005/05/kin-of-summer'
 title: типа лето
 wordpress_id: 68
 tags:

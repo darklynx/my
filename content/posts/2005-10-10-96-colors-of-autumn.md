@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-10-10 21:07:18+00:00
 layout: post
-link: http://localhost/wordpress/2005/10/%d0%ba%d1%80%d0%b0%d1%81%d0%ba%d0%b8-%d0%be%d1%81%d0%b5%d0%bd%d0%b8/
-slug: colors-of-autumn
+link: https://wobla.ru/blog/idle_lynx/2115.aspx
+slug: '2005/10/colors-of-autumn'
 title: краски осени
 wordpress_id: 96
 tags:

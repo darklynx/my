@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-09-20 11:34:04+00:00
 layout: post
-link: http://localhost/wordpress/2006/09/%d0%9e%d1%87%d0%b5%d1%80%d0%b5%d0%b4%d0%bd%d0%be%d0%b5-%d1%82%d1%83%d0%bc%d0%b0%d0%bd%d0%bd%d0%be%d0%b5-%d1%83%d1%82%d1%80%d0%be/
-slug: misty-morning
+link: https://wobla.ru/blog/idle_lynx/2891.aspx
+slug: '2006/09/misty-morning'
 title: Очередное туманное утро
 wordpress_id: 272
 tags:

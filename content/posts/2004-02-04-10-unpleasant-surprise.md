@@ -4,7 +4,7 @@ comments: true
 date: 2004-02-04 13:29:57+00:00
 layout: post
 link: https://wobla.ru/blog/idle_lynx/87.aspx
-slug: unpleasant-surprise
+slug: '2004/02/unpleasant-surprise'
 title: Сюрпризы (из неприятного)
 wordpress_id: 10
 tags:

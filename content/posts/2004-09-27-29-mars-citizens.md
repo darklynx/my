@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-09-27 12:59:05+00:00
 layout: post
-link: http://localhost/wordpress/2004/09/%d0%9c%d0%b0%d1%80%d1%81%d0%b8%d0%b0%d0%bd%d0%b5-%d0%b8-%d0%bc%d0%b0%d1%80%d1%81%d0%b8%d0%b0%d0%bd%d0%ba%d0%b8-%d0%b2%d1%81%d0%b5%d0%b9-%d0%bf%d0%bb%d0%b0%d0%bd%d0%b5%d1%82%d1%8b-%e2%80%93-%d0%be/
-slug: mars-citizens
+link: https://wobla.ru/blog/idle_lynx/853.aspx
+slug: '2004/09/mars-citizens'
 title: Марсиане и марсианки всей планеты – объединяйтесь
 wordpress_id: 29
 tags:

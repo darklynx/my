@@ -4,7 +4,7 @@ comments: true
 date: 2004-02-16 13:41:59+00:00
 layout: post
 link: https://wobla.ru/blog/idle_lynx/142.aspx
-slug: welcome-back
+slug: '2004/02/welcome-back'
 title: С возвращением нас любимых!
 wordpress_id: 12
 tags:

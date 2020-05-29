@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2008-01-13 00:12:35+00:00
 layout: post
-link: http://localhost/wordpress/2008/01/%d0%b7%d0%b8%d0%bc%d0%b0-%d0%b2-%d0%b2%d0%be%d0%bb%d0%be%d0%b3%d0%b4%d0%b5/
-slug: winter-in-vologda
+link: https://wobla.ru/blog/idle_lynx/3968.aspx
+slug: '2008/01/winter-in-vologda'
 title: Зима в Вологде
 wordpress_id: 426
 tags:

@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-12-18 22:02:50+00:00
 layout: post
-link: http://localhost/wordpress/2005/12/%d0%b8%d0%b7-%d1%81%d0%b5%d1%80%d0%b8%d0%b8-seasons-%d1%80%d0%b0%d0%bd%d0%bd%d1%8f%d1%8f-%d0%b2%d0%b5%d1%81%d0%bd%d0%b0/
-slug: seasons-early-spring
+link: https://wobla.ru/blog/idle_lynx/2274.aspx
+slug: '2005/12/seasons-early-spring'
 title: из серии Seasons (ранняя весна)
 wordpress_id: 111
 tags:

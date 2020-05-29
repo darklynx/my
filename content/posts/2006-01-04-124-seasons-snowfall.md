@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-01-04 21:29:29+00:00
 layout: post
-link: http://localhost/wordpress/2006/01/%d0%b8%d0%b7-%d1%81%d0%b5%d1%80%d0%b8%d0%b8-seasons-%d1%81%d0%bd%d0%b5%d0%b3%d0%be%d0%bf%d0%b0%d0%b4/
-slug: seasons-snowfall
+link: https://wobla.ru/blog/idle_lynx/2313.aspx
+slug: '2006/01/seasons-snowfall'
 title: из серии Seasons (снегопад)
 wordpress_id: 124
 tags:

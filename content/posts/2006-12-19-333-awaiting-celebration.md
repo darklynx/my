@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-12-19 23:43:23+00:00
 layout: post
-link: http://localhost/wordpress/2006/12/%d0%b2-%d0%be%d0%b6%d0%b8%d0%b4%d0%b0%d0%bd%d0%b8%d0%b8-%d0%bf%d1%80%d0%b0%d0%b7%d0%b4%d0%bd%d0%b8%d0%ba%d0%b0/
-slug: awaiting-celebration
+link: https://wobla.ru/blog/idle_lynx/3130.aspx
+slug: '2006/12/awaiting-celebration'
 title: в ожидании праздника
 wordpress_id: 333
 tags:

@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2008-07-01 02:00:32+00:00
 layout: post
-link: http://localhost/wordpress/2008/07/%d0%bb%d0%b5%d1%82%d0%be-%d0%bf%d0%be%d1%80%d0%b0-%d0%b2%d0%be%d0%b7%d0%b4%d1%83%d1%88%d0%bd%d1%8b%d1%85-%d1%88%d0%b0%d1%80%d0%b8%d0%ba%d0%be%d0%b2/
-slug: summer-balloons
+link: https://wobla.ru/blog/idle_lynx/4368.aspx
+slug: '2008/07/summer-balloons'
 title: Лето - пора воздушных шариков..
 wordpress_id: 444
 tags:

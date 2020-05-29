@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-11-02 13:23:41+00:00
 layout: post
-link: http://localhost/wordpress/2004/11/%d0%92%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%bb%d0%b5%d0%b3%d0%b5%d0%bd%d0%b4%d1%8b-%d0%b8%d0%b7-%d0%bd%d0%b0%d0%b2%d0%b5%d1%8f%d0%bd%d0%bd%d0%be%d0%b3%d0%be/
-slug: instead-of-legend
+link: https://wobla.ru/blog/idle_lynx/986.aspx
+slug: '2004/11/instead-of-legend'
 title: Вместо легенды (из навеянного)
 wordpress_id: 35
 tags:

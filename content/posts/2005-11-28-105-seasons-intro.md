@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-11-28 23:15:58+00:00
 layout: post
-link: http://localhost/wordpress/2005/11/%d0%b8%d0%b7-%d1%81%d0%b5%d1%80%d0%b8%d0%b8-seasons-%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%b2%d1%81%d1%82%d1%83%d0%bf%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f/
-slug: seasons-intro
+link: https://wobla.ru/blog/idle_lynx/2231.aspx
+slug: '2005/11/seasons-intro'
 title: из серии Seasons (вместо вступления)
 wordpress_id: 105
 tags:

@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-04-27 22:22:25+00:00
 layout: post
-link: http://localhost/wordpress/2004/04/%d0%92%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b/
-slug: instead-of-work
+link: https://wobla.ru/blog/idle_lynx/383.aspx
+slug: '2004/04/instead-of-work'
 title: Вместо работы
 wordpress_id: 21
 tags:

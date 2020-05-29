@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-10-30 02:23:20+00:00
 layout: post
-link: http://localhost/wordpress/2005/10/%d0%bf%d0%b5%d1%80%d0%b2%d0%be%d0%b5-%d0%bf%d0%be%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%b5%d1%80%d0%b2%d0%b0%d1%8f-%d0%bf%d0%be%d0%b1%d0%b5%d0%b4%d0%b0/
-slug: first-win-first-lose
+link: https://wobla.ru/blog/idle_lynx/2166.aspx
+slug: '2005/10/first-win-first-lose'
 title: первое поражение, первая победа
 wordpress_id: 99
 tags:

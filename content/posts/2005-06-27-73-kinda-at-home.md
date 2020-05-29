@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-06-27 01:26:44+00:00
 layout: post
-link: http://localhost/wordpress/2005/06/kinda-at-home/
-slug: kinda-at-home
+link: https://wobla.ru/blog/idle_lynx/1813.aspx
+slug: '2005/06/kinda-at-home'
 title: kinda at home
 wordpress_id: 73
 tags:

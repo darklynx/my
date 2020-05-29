@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2004-02-18 12:18:59+00:00
 layout: post
-link: http://localhost/wordpress/2004/02/%d0%93%d0%b4%d0%b5-%d0%bc%d0%be%d1%8f-%d1%87%d0%b0%d1%88%d0%ba%d0%b0/
-slug: where-is-my-cup
+link: https://wobla.ru/blog/idle_lynx/155.aspx
+slug: '2004/02/where-is-my-cup'
 title: Где моя чашка?
 wordpress_id: 14
 tags:

@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-01-24 11:53:05+00:00
 layout: post
-link: http://localhost/wordpress/2005/01/%d0%92%d0%bc%d0%b5%d1%81%d1%82%d0%be-%d0%b4%d0%bd%d1%8f-%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f/
-slug: instead-of-birthday
+link: https://wobla.ru/blog/idle_lynx/1302.aspx
+slug: '2005/01/instead-of-birthday'
 title: Вместо дня рождения
 wordpress_id: 46
 tags:

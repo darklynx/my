@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-10-18 22:45:28+00:00
 layout: post
-link: http://localhost/wordpress/2006/10/%d0%b4%d1%80%d1%83%d0%b3%d0%b0%d1%8f-%d0%be%d1%81%d0%b5%d0%bd%d1%8c/
-slug: another-autumn
+link: https://wobla.ru/blog/idle_lynx/2943.aspx
+slug: '2006/10/another-autumn'
 title: другая осень
 wordpress_id: 302
 tags:

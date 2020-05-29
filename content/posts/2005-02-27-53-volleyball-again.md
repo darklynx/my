@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2005-02-27 15:24:39+00:00
 layout: post
-link: http://localhost/wordpress/2005/02/%d0%98-%d1%81%d0%bd%d0%be%d0%b2%d0%b0-%d0%b2%d0%be%d0%bb%d0%b5%d0%b9%d0%b1%d0%be%d0%bb/
-slug: volleyball-again
+link: https://wobla.ru/blog/idle_lynx/1419.aspx
+slug: '2005/02/volleyball-again'
 title: И снова волейбол
 wordpress_id: 53
 tags:

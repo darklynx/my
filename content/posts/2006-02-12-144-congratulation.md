@@ -3,8 +3,8 @@ author: idle_lynx
 comments: true
 date: 2006-02-12 23:34:19+00:00
 layout: post
-link: http://localhost/wordpress/2006/02/%d0%bf%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5/
-slug: congratulation
+link: https://wobla.ru/blog/idle_lynx/2377.aspx
+slug: '2006/02/congratulation'
 title: поздравление
 wordpress_id: 144
 tags:
