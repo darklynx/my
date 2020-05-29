@@ -1,0 +1,20 @@
+---
+author: idle_lynx
+comments: true
+date: 2004-01-29 17:57:00+00:00
+layout: post
+link: https://wobla.ru/blog/idle_lynx/70.aspx
+slug: extrapolation
+title: Экстраполяция [вместо наблюдения]
+wordpress_id: 9
+tags:
+- Флуд
+---
+
+Челевок не всегда такой, каким его видят другие, иногда он такой каким ему охота чтобы его видели.
+
+Во загнул!
+
+Короче, другими словами, люди часто играют на публику, иногда даже не осозновая этого...
+
+Оригинал: [https://wobla.ru/blog/idle_lynx/70.aspx](https://wobla.ru/blog/idle_lynx/70.aspx)
