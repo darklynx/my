@@ -3,11 +3,12 @@ require(`dotenv`).config({
 })
 
 module.exports = {
+  pathPrefix: `/my`,
   siteMetadata: {
     siteTitle: `DarkLynx`,
     siteTitleAlt: `Lynx @ wobla.ru - another realm`,
     siteHeadline: `Lynx @ wobla.ru - another realm`,
-    siteUrl: `https://darklynx.github.io/blog`,
+    siteUrl: `https://darklynx.github.io`,
     siteDescription: `Вместо мыслей - личный блог Линкса с wobla.ru, aka Lynx IdleLynx DarkLynx`,
     siteLanguage: `ru`,
     siteImage: `/favicon-512x512.png`,
@@ -54,7 +55,7 @@ module.exports = {
         name: `Lynx @ wobla.ru - another realm`,
         short_name: `DarkLynx`,
         description: `Вместо мыслей - личный блог Линкса с wobla.ru, aka Lynx IdleLynx DarkLynx`,
-        start_url: `/`,
+        start_url: `/my`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
         display: `standalone`,
