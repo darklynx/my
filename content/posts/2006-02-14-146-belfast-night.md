@@ -19,20 +19,20 @@ tags:
 
 Поэтому сегодня я представляю на обозрение еще парочку фотографий набережной ночного Белфаста в необычную ночь:
 
-![Belfast Night - bridge](images/2007/05/5bf0f6b5-e789-4584-931f-90074b6e230d.JPG)
+![Belfast Night - bridge](images/2007/05/5bf0f6b5-e789-4584-931f-90074b6e230d.jpg)
 
-![Belfast Night - bridge](images/2007/05/ab165a41-bf4b-4f56-ab95-85f66bfecf65.JPG)
+![Belfast Night - bridge](images/2007/05/ab165a41-bf4b-4f56-ab95-85f66bfecf65.jpg)
 
 а также в обычную очень туманную ночь:
 
-![Mysty Belfast Night - bridge](images/2007/05/35b9b4a5-a060-48e3-ab62-2e9e09ef3b26.JPG)
+![Mysty Belfast Night - bridge](images/2007/05/35b9b4a5-a060-48e3-ab62-2e9e09ef3b26.jpg)
 
-![Mysty Belfast Night - bridge](images/2007/05/0bce924f-210a-44e5-9f82-925cf0b95503.JPG)
+![Mysty Belfast Night - bridge](images/2007/05/0bce924f-210a-44e5-9f82-925cf0b95503.jpg)
 
-![Mysty Belfast Night - lamp](images/2007/05/fa297354-3b53-4fb0-a836-2f16825758e9.JPG)
+![Mysty Belfast Night - lamp](images/2007/05/fa297354-3b53-4fb0-a836-2f16825758e9.jpg)
 
 Ну и вот это сооружение (то что сияет белым слева), постороеное в честь погибших при кораблекрушении Титаника. Как известно, Титаник, также как и Британика, был построен на верфях Белфаста:
 
-![In memory of Titanic](images/2007/05/197f2fe0-9c5a-48ad-8ae8-b8aa4f6ca6c4.JPG)
+![In memory of Titanic](images/2007/05/197f2fe0-9c5a-48ad-8ae8-b8aa4f6ca6c4.jpg)
 
 Оригинал: [https://wobla.ru/blog/idle_lynx/2381.aspx](https://wobla.ru/blog/idle_lynx/2381.aspx)

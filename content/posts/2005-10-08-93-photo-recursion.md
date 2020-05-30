@@ -15,6 +15,6 @@ tags:
 
 знаю, что идея не новая, и тем не менее, рассматривая одну из своих фотографий из серии "к нам тоже пришла осень", совершенно неосознанно в голову пришла интересная мысль, вот что из этого получилось:
 
-![Working place](images/2007/05/fcfc8ef8-052d-4fb9-a8c0-3d8fe2781e0a.JPG)
+![Working place](images/2007/05/fcfc8ef8-052d-4fb9-a8c0-3d8fe2781e0a.jpg)
 
 Оригинал: [https://wobla.ru/blog/idle_lynx/2107.aspx](https://wobla.ru/blog/idle_lynx/2107.aspx)
