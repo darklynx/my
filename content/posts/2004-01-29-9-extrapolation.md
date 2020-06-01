@@ -16,5 +16,3 @@ tags:
 Во загнул!
 
 Короче, другими словами, люди часто играют на публику, иногда даже не осозновая этого...
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/70.aspx](https://wobla.ru/blog/idle_lynx/70.aspx)

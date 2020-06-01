@@ -19,5 +19,3 @@ tags:
 ![Flowers of Mainau](images/2007/05/e10165de-2e4c-469a-bec3-868bd134b863.jpg)
 
 ![Flowers of Mainau](images/2007/05/58ac78ee-5457-4a64-8e0f-08532d0261df.jpg)
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/3329.aspx](https://wobla.ru/blog/idle_lynx/3329.aspx)

@@ -39,5 +39,3 @@ tags:
 ну и это, типа попытался сообразить что-то на матрице соньки, скажем так "Размышления о вечном":
 
 ![Sunset](images/2007/05/07.jpg)
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/3383.aspx](https://wobla.ru/blog/idle_lynx/3383.aspx)

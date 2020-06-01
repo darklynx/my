@@ -22,5 +22,3 @@ tags:
 ![Autumn](images/2007/05/dce3474b-2dd1-4077-9bc4-a072379507a8.jpg)
 
 И за это тоже я люблю осень.
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2115.aspx](https://wobla.ru/blog/idle_lynx/2115.aspx)

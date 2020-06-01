@@ -22,5 +22,3 @@ tags:
 Весна-весна..
 
 В следующей серии: почти лето
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2308.aspx](https://wobla.ru/blog/idle_lynx/2308.aspx)

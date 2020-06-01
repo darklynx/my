@@ -20,5 +20,3 @@ tags:
 ![Seasons - Winter](images/2007/05/628d011e-8c9f-4086-8af8-23689ed7b091.jpg)
 
 В следующей серии: почти лето
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2313.aspx](https://wobla.ru/blog/idle_lynx/2313.aspx)

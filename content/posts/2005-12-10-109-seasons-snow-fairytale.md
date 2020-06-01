@@ -24,5 +24,3 @@ tags:
 ![Seasons - Winter](images/2007/05/9e7b3150-b637-43fb-a11c-0b09f010fe18.jpg)
 
 В следующей серии: ранняя весна
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2259.aspx](https://wobla.ru/blog/idle_lynx/2259.aspx)

@@ -50,5 +50,3 @@ tags:
 ![Vologda - Winter, Church](images/2008/02/64b4197e-edd0-4dca-839c-119ba2a0f912.jpg)
 
 ![Vologda - Winter, Tower](images/2008/02/7b87bc9b-bb39-4c33-854e-826c672ca73f.jpg)
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/3968.aspx](https://wobla.ru/blog/idle_lynx/3968.aspx)

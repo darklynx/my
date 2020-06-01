@@ -21,5 +21,3 @@ tags:
 Искренне ваш, свой и их,  
 безнадежно влюбленный,  
 Линкс
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/1302.aspx](https://wobla.ru/blog/idle_lynx/1302.aspx)

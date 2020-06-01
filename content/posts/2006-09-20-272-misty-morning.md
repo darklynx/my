@@ -45,5 +45,3 @@ tags:
 
 Старался для вас ^_^  
 Линкс
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2891.aspx](https://wobla.ru/blog/idle_lynx/2891.aspx)

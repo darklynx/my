@@ -30,5 +30,3 @@ tags:
 ![Seasons - Spring](images/2007/05/dee3f89f-6ab2-4b7b-bc3d-7d63fadfaf26.jpg)
 
 В следующей серии: весна! настоящая!
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2274.aspx](https://wobla.ru/blog/idle_lynx/2274.aspx)

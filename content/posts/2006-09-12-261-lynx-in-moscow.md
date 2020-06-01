@@ -36,5 +36,3 @@ tags:
 Ну и это, бонус, проходя мимо не мог не сфотографировать:
 
 ![Moscow - Vologda](images/2007/05/0669b996-4b97-4015-be02-5413e083c98a.jpg)
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2867.aspx](https://wobla.ru/blog/idle_lynx/2867.aspx)

@@ -13,5 +13,3 @@ tags:
 ---
 
 Ну какие идиоты проектировали .NET Compact Framework?! Ну не, я так не играю :(
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/291.aspx](https://wobla.ru/blog/idle_lynx/291.aspx)

@@ -23,5 +23,3 @@ tags:
 ![Night in Hiroshima 2](images/2007/05/65ec9c7c-71a6-4a65-a669-7f997b516a9f.jpg)
 
 Как ни крути, ночь - мистическое и красивое время суток..
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2054.aspx](https://wobla.ru/blog/idle_lynx/2054.aspx)

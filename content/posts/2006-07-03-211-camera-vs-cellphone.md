@@ -63,5 +63,3 @@ tags:
 ![Cloud](images/2007/05/7d85a3db-6a7a-4070-8d43-cb3ccb666eb1.jpg)
 
 В волейбол мне сегодня так и не удалось поиграть :(
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2667.aspx](https://wobla.ru/blog/idle_lynx/2667.aspx)

@@ -15,5 +15,3 @@ tags:
 Кто бы мог подумать, что это именно сегодня: [www.nonphotographyday.com](http://www.nonphotographyday.com)
 
 Не совершайте греха, не фотографируйте сегодня ;)
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2727.aspx](https://wobla.ru/blog/idle_lynx/2727.aspx)

@@ -87,5 +87,3 @@ tags:
 ![Back to live](images/2007/05/6cf05227-586c-45d3-b2fd-880a7b89b3bc.jpg)
 
 На этом я пожалуй закруглюсь, тем кто дочитал – пряник ^_^
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2416.aspx](https://wobla.ru/blog/idle_lynx/2416.aspx)

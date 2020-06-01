@@ -22,5 +22,3 @@ tags:
 Эх, хорошая была битва...
 
 Good night, good fight!
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/649.aspx](https://wobla.ru/blog/idle_lynx/649.aspx)

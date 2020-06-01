@@ -26,5 +26,3 @@ tags:
 ...
 
 А вот и шеф пожаловал, пойду похвастаюсь компонентой.
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2011.aspx](https://wobla.ru/blog/idle_lynx/2011.aspx)

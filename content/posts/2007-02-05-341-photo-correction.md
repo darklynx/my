@@ -18,5 +18,3 @@ tags:
 Да, Лесси, завалена, посмотри, какие чудеса делает поворот в 1.5°
 
 ![Vologda - Church](images/2007/05/38ea5f70-2964-480b-ba59-ed0031e543f6.jpg)
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/3253.aspx](https://wobla.ru/blog/idle_lynx/3253.aspx)

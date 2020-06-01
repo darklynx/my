@@ -16,5 +16,3 @@ tags:
 > There are only 10 types of people in the world: Those who understand binary, and those who don't.
 
 Тем кто не понял фразу с перового раза, 10-й и 11-й раз и далее перечитывать не имеет смысла.
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/1002.aspx](https://wobla.ru/blog/idle_lynx/1002.aspx)

@@ -12,5 +12,3 @@ tags:
 ---
 
 всем привет из Мюнхена :)
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/5429.aspx](https://wobla.ru/blog/idle_lynx/5429.aspx)

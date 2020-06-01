@@ -45,5 +45,3 @@ tags:
 ![Neuschwansteinschloss - tree](images/2007/08/2f1d1dbe-7155-493c-9360-7f066701f0a6.jpg)
 
 Кстати, у замка очень поэтичное название, хоть и построен он был по заказу полу-сумасшедшего баварского короля.
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/3455.aspx](https://wobla.ru/blog/idle_lynx/3455.aspx)

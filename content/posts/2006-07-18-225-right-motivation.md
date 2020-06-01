@@ -29,5 +29,3 @@ tags:
 ![Beer](images/2007/05/30c2375e-005e-4b71-961c-181ea74bff93.jpg)
 
 Вот что я называю "правильной мотивацией" работников! ;)
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2731.aspx](https://wobla.ru/blog/idle_lynx/2731.aspx)

@@ -23,5 +23,3 @@ tags:
 
 Искренне Ваш,  
 Линкс
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/1219.aspx](https://wobla.ru/blog/idle_lynx/1219.aspx)

@@ -28,5 +28,3 @@ tags:
 После этого шарик и его пассажиры умчались в далекое лазурное небо:
 
 ![red-balloon-3](images/2009/03/red-balloon-3.jpg)
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/4368.aspx](https://wobla.ru/blog/idle_lynx/4368.aspx)

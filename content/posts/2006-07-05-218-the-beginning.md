@@ -44,5 +44,3 @@ tags:
 [Lynx] а e-mail - он виден всем или нет?  
 [Wobla] не виден, это ты что ли линкс :D  
 [Lynx] ну да, типа того, а что плохо? :$
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2675.aspx](https://wobla.ru/blog/idle_lynx/2675.aspx)

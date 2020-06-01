@@ -19,5 +19,3 @@ tags:
 ![Spooky Morning in Belfast](images/2007/05/94b272d1-6f49-4491-8028-883b0a95041f.jpg)
 
 Подробности по возвращении.
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2367.aspx](https://wobla.ru/blog/idle_lynx/2367.aspx)

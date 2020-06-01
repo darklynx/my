@@ -13,5 +13,3 @@ tags:
 
 всего  
 все будет хорошо
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/3151.aspx](https://wobla.ru/blog/idle_lynx/3151.aspx)

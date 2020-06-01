@@ -24,5 +24,3 @@ tags:
 
 
 Между тем, проблема так и не была решена. Посмотрим, что будет завтра...
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/383.aspx](https://wobla.ru/blog/idle_lynx/383.aspx)

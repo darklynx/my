@@ -64,5 +64,3 @@ tags:
 ![Giant Tree](images/2007/05/a3087251-661b-49c0-9a4b-06e50a05ee33.jpg)
 
 А да, чуть не забыл: левостороннее движение действительно напрягает.
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/2373.aspx](https://wobla.ru/blog/idle_lynx/2373.aspx)

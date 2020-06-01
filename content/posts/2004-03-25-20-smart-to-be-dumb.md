@@ -12,5 +12,3 @@ tags:
 ---
 
 Пойду-ка я лучше спать...
-
-Оригинал: [https://wobla.ru/blog/idle_lynx/310.aspx](https://wobla.ru/blog/idle_lynx/310.aspx)
