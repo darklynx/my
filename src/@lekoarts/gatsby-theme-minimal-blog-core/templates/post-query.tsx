@@ -1,5 +1,5 @@
 import { graphql } from "gatsby"
-import PostComponent from "@lekoarts/gatsby-theme-minimal-blog/src/components/post"
+import PostComponent from "@lekoarts/gatsby-theme-minimal-blog-core/src/components/post"
 
 export default PostComponent
 
@@ -25,7 +25,6 @@ export const query = graphql`
         }
       }
       link
-      favorite
     }
   }
 `

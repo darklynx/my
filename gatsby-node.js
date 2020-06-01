@@ -4,7 +4,6 @@ exports.createSchemaCustomization = ({ actions }) => {
   const typeDefs = `
     interface Post @nodeInterface {
       link: String
-      favorite: Boolean!
     }
     interface Page @nodeInterface {
       link: String
@@ -20,10 +19,6 @@ exports.createResolvers = ({ createResolvers, schema }) => {
       link: {
         type: `String`,
         resolve: source => source.fields.link,
-      },
-      favorite: {
-        type: `Boolean!`,
-        resolve: source => source.fields.favorite || false,
       }
     },
     MdxPage: {
@@ -38,20 +33,7 @@ exports.createResolvers = ({ createResolvers, schema }) => {
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
   // add node fields with data from frontmatter of the parent Mdx class
-  if (node.internal.type === `MdxPost`) {
-    const parent = getNode(node.parent);
-    createNodeField({
-      node,
-      name: "link",
-      value: parent.frontmatter.link
-    });
-    createNodeField({
-      node,
-      name: "favorite",
-      value: parent.frontmatter.favorite
-    });
-  }
-  if (node.internal.type === `MdxPage`) {
+  if (node.internal.type === `MdxPost` || node.internal.type === `MdxPage`) {
     const parent = getNode(node.parent);
     createNodeField({
       node,
