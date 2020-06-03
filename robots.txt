@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://darklynx.github.io/my/sitemap.xml
