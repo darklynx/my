@@ -19,20 +19,20 @@ tags:
 
 Вот это одна из первых жертв, что попалась на встречу мне и моему фотоаппарату. Очень симпатичная церквушка, недалеко от Красной Площади, правда не знаю ее названия:
 
-![Moscow - Church](images/2007/05/8845d230-23d0-48fa-a971-7e164fa534b3.jpg)
+![Moscow - Church](images/2006/09/DSC02884.JPG)
 
 Ну, собственно, банальная классика:
 
-![Moscow - Cathedral](images/2007/05/e845d171-9115-478a-968b-9d888f99e3e7.jpg)
+![Moscow - Cathedral](images/2006/09/DSC02892.JPG)
 
 Вид с моста на реку Москва (справа Кремль и Красная Площадь):
 
-![Moscow - Moscow river](images/2007/05/994409a3-8001-4bd8-92c5-cefcd3a01f52.jpg)
+![Moscow - Moscow river](images/2006/09/DSC02899.JPG)
 
 Храм Христа Спасителя (фас, эм... фронтальная съемка, кажется спецы это так называют):
 
-![Moscow - Cathedral](images/2007/05/d6ee4c04-de13-4602-a2e6-44619896a80c.jpg)
+![Moscow - Cathedral](images/2006/09/DSC02921.JPG)
 
 Ну и это, бонус, проходя мимо не мог не сфотографировать:
 
-![Moscow - Vologda](images/2007/05/0669b996-4b97-4015-be02-5413e083c98a.jpg)
+![Moscow - Vologda](images/2006/09/DSC02886.JPG)
