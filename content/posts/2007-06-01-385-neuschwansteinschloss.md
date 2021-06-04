@@ -18,7 +18,7 @@ tags:
 
 Вот, самое красивое и все же наверное самое известное из них:
 
-![Neuschwansteinschloss](images/2007/08/6caa61fd-ad2b-4a2b-88b7-dc11b41bb572.jpg)
+![Neuschwansteinschloss](images/2007/06/DSC08931.JPG)
 
 Когда я посетил этот замок в первый раз, он произвел на меня колоссальное впечатление. За прошедшее время красота это замка нисколечки не изменилась, но, похоже, изменилось мое отношение к жизни.
 
@@ -26,22 +26,22 @@ tags:
 
 Вид из-под стен замка:
 
-![Neuschwansteinschloss](images/2007/08/c4c68fb5-7579-481c-a9e1-7f6300606516.jpg)
+![Neuschwansteinschloss](images/2007/06/DSC08936.JPG)
 
 Далее мы двинулись в обход замка по горам, со стороны освещенной заходящим солнцем:
 
-![Neuschwansteinschloss](images/2007/08/5111b5bd-bf77-458d-af54-d03db19f6b37.jpg)
+![Neuschwansteinschloss](images/2007/06/DSC08945.JPG)
 
 Вид на замок с узенького моста перекинутого через глубоченную пропасть в горах (было страшно смотреть вниз):
 
-![Neuschwansteinschloss - from Marienbruecke](images/2007/08/32c6748b-be86-4662-99e7-96ed21311f0e.jpg)
+![Neuschwansteinschloss - from Marienbruecke](images/2007/06/DSC08946.JPG)
 
 Потом мы долго-долго карабкались по узенькой горной тропинке для того, чтобы сфотографировать нечто такое:
 
-![Neuschwansteinschloss](images/2007/08/858d3dca-ee2b-41c1-8912-b50de6a11105.jpg)
+![Neuschwansteinschloss](images/2007/06/DSC08970.JPG)
 
 Ну и другие романтичные виды:
 
-![Neuschwansteinschloss - tree](images/2007/08/2f1d1dbe-7155-493c-9360-7f066701f0a6.jpg)
+![Neuschwansteinschloss - tree](images/2007/06/DSC08957.JPG)
 
 Кстати, у замка очень поэтичное название, хоть и построен он был по заказу полу-сумасшедшего баварского короля.
