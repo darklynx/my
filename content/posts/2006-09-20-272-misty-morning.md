@@ -21,27 +21,27 @@ tags:
 
 Собственно мой любимый сюжет (туман, река, солнце, ветви):
 
-![Morning - sun through the branches](images/2007/05/02918b5f-4b57-4823-a81d-a060dc838d1c.jpg)
+![Morning - sun through the branches](images/2006/09/DSC07228.JPG)
 
 Туман над полем и телеграфный столб :)
 
-![Morning - fog over the field](images/2007/05/e5aab3e3-9362-4174-9053-3669211e2847.jpg)
+![Morning - fog over the field](images/2006/09/DSC07236.JPG)
 
 Куст (большой):
 
-![Morning - a bush](images/2007/05/e375c590-5365-46e8-af17-d0f3079e5c27.jpg)
+![Morning - a bush](images/2006/09/DSC07242.JPG)
 
 Поле:
 
-![Morning - a field](images/2007/05/51f4aab4-f2f0-4d91-b2a5-0c3aa879a552.jpg)
+![Morning - a field](images/2006/09/DSC07243.JPG)
 
 Поворот:
 
-![Morning - a turn](images/2007/05/17485234-e0e5-4219-9f44-a4e30e02e415.jpg)
+![Morning - a turn](images/2006/09/DSC07244.JPG)
 
 Ну и это, снова любимый сюжет, только вертикально:
 
-![Morning - sun through the branches](images/2007/05/8cb26de5-3eac-4787-bb27-9af12a68c8b4.jpg)
+![Morning - sun through the branches](images/2006/09/DSC07248.JPG)
 
 Старался для вас ^_^  
 Линкс
